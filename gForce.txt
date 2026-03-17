@@ -1,0 +1,4 @@
+Max Lat: 0.0000
+Min Lat: 0.0000
+Max Long: 0.0000
+Min Long: 0.0000
